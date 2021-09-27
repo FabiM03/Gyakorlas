@@ -1,1 +1,2 @@
 Ez egy TXT fájl!
+második sor
